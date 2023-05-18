@@ -5,3 +5,5 @@ Simple SQL provisioning that works even with an FTP file from the sales website 
  - The payments are done via an external website, no credit card data is stored and the promotions are applied automatically in the final price. There is no need for a calculated column
 
 Also, there were no data insertions as im currently a complete broke ass and my computer shuts down when SQL Server is running with Chrome + Excel, even more ith multiple Excel entities with data being created out of my imagination
+
+In the future there will be a project focused on views. If i weren't born in a third world country, sure i would have done something 300% percent better, but my hands are tied
